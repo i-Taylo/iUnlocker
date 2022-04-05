@@ -1,4 +1,4 @@
-# iUnlocker Magisk Module
+# iUnlocker Graphics Unlocker
 ***
 <div align="center">
   <!-- Version -->
@@ -26,6 +26,8 @@
 * Click on the reboot button.
 ***
 # Supported games
+* <img src="https://img.shields.io/badge/ApexLegends-60FPS(NEW)-yellow.svg?longCache=true&style=flat-square"
+      alt="_time_stamp_" />
 * <img src="https://img.shields.io/badge/All Versions Of PUBG Mobile-90FPS-purple.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" />
 * <img src="https://img.shields.io/badge/Mobile Legends-HighestGraphics-purple.svg?longCache=true&style=flat-square"
@@ -41,4 +43,8 @@
 * <img src="https://img.shields.io/badge/Asphalt 9-60FPS-purple.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" />
 * <img src="https://img.shields.io/badge/Cyber hunter-90FPS-purple.svg?longCache=true&style=flat-square"
+      alt="_time_stamp_" />
+* <img src="https://img.shields.io/badge/LifeAfter-120FPS-purple.svg?longCache=true&style=flat-square"
+      alt="_time_stamp_" />
+* <img src="https://img.shields.io/badge/SuperClone-120FPS-purple.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" />
