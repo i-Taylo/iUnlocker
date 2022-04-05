@@ -32,3 +32,13 @@
       alt="_time_stamp_" />
 * <img src="https://img.shields.io/badge/League of legends wild rift-120FPS-purple.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" />
+* <img src="https://img.shields.io/badge/Fortnite-90FPS-purple.svg?longCache=true&style=flat-square"
+      alt="_time_stamp_" />
+* <img src="https://img.shields.io/badge/CallOfDuty-120FPS-purple.svg?longCache=true&style=flat-square"
+      alt="_time_stamp_" />
+* <img src="https://img.shields.io/badge/Sky children of the light-60FPS-purple.svg?longCache=true&style=flat-square"
+      alt="_time_stamp_" />
+* <img src="https://img.shields.io/badge/Asphalt 9-60FPS-purple.svg?longCache=true&style=flat-square"
+      alt="_time_stamp_" />
+* <img src="https://img.shields.io/badge/Cyber hunter-90FPS-purple.svg?longCache=true&style=flat-square"
+      alt="_time_stamp_" />
