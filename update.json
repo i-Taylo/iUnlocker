@@ -6,7 +6,7 @@
     "GRAPHICS_VER" "1.0",
     "GRAPHICS_VER_CODE" "1000",
     "CURRENT_FLAVOR" "ZYGISK",
-    "versionCode": "13412",
+    "versionCode": "1000",
     "zipUrl": "https://drive.google.com/uc?export=download&id=101gTJ79vTF9eMvqUezyrVurSXp2gImG2/",
     "changelog": "https://raw.githubusercontent.com/i-Taylo/iUnlocker/main/Changelog.md"
 }
