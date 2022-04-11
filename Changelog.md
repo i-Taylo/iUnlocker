@@ -1,5 +1,6 @@
 # Changelog
 * This build is way faster than the previous one by 300%+.
+* Miui users will get max performance in this build.
 * Added OTA updates. 
 * NO MORE Selecting games in magisk ( flash in magisk, Selecting in termux).
 * Full support for Android 13.
