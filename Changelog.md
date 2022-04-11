@@ -1,7 +1,11 @@
 # Changelog
-* Fixed games lagging.
-* Fixed device heating issue.
-* Full support for Android 12.
+* This build is way faster than the previous one by 300%+.
+* Added OTA updates. 
+* NO MORE Selecting games in magisk ( flash in magisk, Selecting in termux).
+* Full support for Android 13.
 * Full support for New phones.
-* Full support for Miui 13.
-* Full support for Magisk V24.*
+* Big improvements to ram expansion and all boosters.
+* Added ram expansion lists to termux.
+* Added ZRAM.
+* Added AIM-ASSIST ( Premium users only).
+* Added option do decrease performance ( for battery life lovers ).
