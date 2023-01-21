@@ -1,0 +1,29 @@
+{"iUnlockerVersion" : { 
+
+      "verCode": 1000,
+
+      "Version": 1.0},
+
+{"VHS": {
+
+      "parentFetch": true,
+
+      "timer": 20,
+
+      "usingG++": true,
+
+      "usingPhp": true,
+
+      "glesVer": "77.0.11.7.33.18293",
+
+      "hasEncryption": true,
+
+      "baseEncryptionType": "base64",
+
+      "masterEncryptionType": "visualTaylo_cUV",
+
+      "isRounded": true,
+
+      "screenWidthX": 1080,
+
+      "screenHeightY": 2040},
