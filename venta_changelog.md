@@ -1,2 +1,3 @@
-### New Version ChangeLog 
-* initial release
+🖥️ V1.0 
+
+initial release
