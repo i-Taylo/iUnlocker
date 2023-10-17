@@ -13,7 +13,7 @@
 
 <div align="center">
   <div align="center">Please read:</div>
- <a href="https://github.com/i-Taylo/iUnlocker/main/README.md#terms" onClick="window.location.href = 'https://new-link.com';">
+ <a href="https://github.com/i-Taylo/iUnlocker/tree/main#terms" onClick="window.location.href = 'https://new-link.com';">
   <img src="https://img.shields.io/badge/Terms-8A2BE2" alt="biscutis" />
  </a>
 </div>
