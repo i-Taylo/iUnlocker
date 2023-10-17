@@ -13,7 +13,7 @@
 
 <div align="center">
   <div align="center">Please read:</div>
- <a href="https://github.com/i-Taylo/iUnlocker/tree/main#terms" onClick="window.location.href = 'https://new-link.com';">
+ <a href="https://github.com/i-Taylo/iUnlocker/tree/main#wyntk" onClick="window.location.href = 'https://new-link.com';">
   <img src="https://img.shields.io/badge/ClickMe-[ What%20you%20need%20to%20know ]-8A2BE2" alt="biscutis" />
  </a>
 </div>
