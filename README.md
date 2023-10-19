@@ -45,13 +45,16 @@
 </div>
 
 *************
-# Module Features.
-* Unlock Graphics for games that uses **GPU** and **PROPERTY** detection.
-* You can unlock your own desired game and put desired phone properties.
-* No need to reboot your phone over and over anymore when unlocking graphics for games.
-* A simple GUI easy-to-use.
-* A Powerful high-end encryption algorithms to secure you from getting ban in games because of this module. **( It will be disabled automaticlly when you install cheats/hacking apps it has an AI bot to help the game banning the cheater )**.
-* Using an AI to optimize apps and handle it during gaming **( it will be added in the near future )**.
+# Module Features
+* Unlock Graphics for games that use **GPU** and **PROPERTY** detection.
+* Customize your graphics settings for any game and adjust your device properties.
+* No more frequent phone reboots required for unlocking game graphics.
+* User-friendly and intuitive GUI.
+* Robust high-end encryption algorithms to safeguard against potential game bans due to this module.
+  **(It will automatically disable itself if cheats or hacking apps are installed, it has an AI bot that helps the game detect and ban cheaters.)**
+* Future plans include AI-driven optimization for apps during gaming.
+  **(This feature is expected in the near future.)**
+
 
 
 
