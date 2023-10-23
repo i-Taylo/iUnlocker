@@ -1,5 +1,6 @@
-🚀 Version 1.1:
-<venta_newline> • Added GPU Changer .
-<venta_newline> • JNI Library Optimizations
-<venta_newline> • CPU Overclocking
-<venta_newline> • "List Apps" Listing Fix
+🚀 Version 1.0.5:
+<venta_newline> • Fixed: Crashing apps/games.
+<venta_newline> • Fixed: Apps not listing probably.
+<venta_newline> • Fixed: Opening target_app not working properly.
+<venta_newline> • JNI Library Optimizations.
+<venta_newline> • Reduced the app size.
