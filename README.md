@@ -28,7 +28,7 @@
 
 <div align="center">
   <!-- Version -->
-   <img src="https://img.shields.io/badge/App%20Version-v1.0%20Pinkie-pink.svg?longCache=true&style=popout-triangle"
+   <img src="https://img.shields.io/badge/App%20Version-v1.5%20Pinkie-pink.svg?longCache=true&style=popout-triangle"
      alt="version" />
  <img src="https://img.shields.io/badge/Server%20version-v0.5%20bcrtl4ea0fe1c9-gold.svg?longCache=true&style=popout-triangle" alt="biscutis" />
  
